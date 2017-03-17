@@ -5,10 +5,12 @@ import { ReactiveFormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
+import { AutogrowDirective } from './autogrow.directive';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    AutogrowDirective
   ],
   imports: [
     BrowserModule,
