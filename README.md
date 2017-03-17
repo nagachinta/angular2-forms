@@ -1,3 +1,14 @@
+#Execution instructions
+
+Do the following steps
+
+1. cd <project-folder>
+2. Execute `npm install` command.
+3. Run `ng serve` for a dev server. 
+4. Navigate to `http://localhost:4200/`. 
+
+The app will automatically reload if you change any of the source files.
+
 # FormApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.1.
